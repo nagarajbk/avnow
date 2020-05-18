@@ -20,6 +20,6 @@
     "webrtc-adapter" : "^7.4.0",
     "jquery": "^3.5.0",
     "semantic-ui-css": "^2.4",
-    "simplewebrtc": "^3.0.1"
+    "simplewebrtc": "^3.0.2"
   }
 }
